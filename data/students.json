@@ -1,0 +1,29 @@
+{
+  "school": "Ateneo de Davao University",
+  "semester": "First Semester",
+  "academic_year": "2026-2027",
+  "students": [
+    {
+      "student_id": "2026-0001",
+      "first_name": "Maria",
+      "last_name": "Santos",
+      "program": "BS Information Technology",
+      "year_level": 2,
+      "email": "maria.santos@example.com",
+      "courses": [
+        {
+          "course_code": "ITP101",
+          "course_title": "Integrative Programming Technologies",
+          "units": 3,
+          "instructor": "Mr. Jerry Canale"
+        },
+        {
+          "course_code": "DBMS201",
+          "course_title": "Database Management Systems",
+          "units": 3,
+          "instructor": "Ms. Ana Rivera"
+        }
+      ]
+    }
+  ]
+}
